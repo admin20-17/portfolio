@@ -1,12 +1,10 @@
 title: "C. Alan Jones"
 description: "Strategic consultant and builder of neurodiverse-friendly digital experiences"
-theme: minima
+theme: jekyll-theme-hamilton
 
 # Basic settings
 author: "C. Alan Jones"
 email: "admin@calanjonesconsulting.com"
-baseurl: "" # leave empty unless hosting in a subfolder
-url: "https://yourusername.github.io"
 
 # Navigation links
 header_pages:
