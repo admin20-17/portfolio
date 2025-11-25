@@ -1,6 +1,6 @@
 title: "C. Alan Jones"
 description: "Strategic consultant and builder of neurodiverse-friendly digital experiences"
-theme: jekyll-theme-hamilton
+theme: jekyll-theme-cayman
 
 # Basic settings
 author: "C. Alan Jones"
@@ -12,7 +12,7 @@ header_pages:
   - projects.md
   - contact.md
 
-# Social links (optional)
+# Social links 
 social_links:
   github: yourusername
   linkedin: your-linkedin-handle
