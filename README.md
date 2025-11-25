@@ -4,7 +4,7 @@ theme: minima
 
 # Basic settings
 author: "C. Alan Jones"
-email: "your-email@example.com"
+email: "admin@calanjonesconsulting.com"
 baseurl: "" # leave empty unless hosting in a subfolder
 url: "https://yourusername.github.io"
 
